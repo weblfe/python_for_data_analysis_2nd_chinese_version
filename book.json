@@ -1,0 +1,16 @@
+{
+    "title": "利用Python进行数据分析·第2版",
+    "language": "zh-hans",
+    "links": {
+        "sidebar": {
+            "首页": "https://www.mapull.com"
+        }
+    },
+    "pluginsConfig": {
+        "fontsettings": {
+            "theme": "white",
+            "family": "serif",
+            "size": 2
+        }
+    }
+}
